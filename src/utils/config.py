@@ -1,6 +1,5 @@
 """YAML configuration reader with path resolution."""
 
-from pathlib import Path
 from typing import Any
 
 import yaml
