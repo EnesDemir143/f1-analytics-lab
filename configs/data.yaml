@@ -1,0 +1,15 @@
+# Data configuration
+seasons: [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
+
+sessions:
+  race: [R]
+  qualifying: [Q]
+  practice: [FP2]
+
+cache_dir: data/raw
+interim_dir: data/interim
+processed_dir: data/processed
+external_dir: data/external
+
+# Fast-F1 cache
+fastf1_cache: data/raw/fastf1_cache

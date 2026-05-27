@@ -1,0 +1,14 @@
+# Weights & Biases configuration
+entity: enesdemir
+project: f1-analytics-lab
+
+# Logging
+log_artifacts: true
+log_plots: true
+log_model: false
+
+# Tags (auto-added per task)
+tags:
+  - f1
+  - telemetry
+  - benchmark

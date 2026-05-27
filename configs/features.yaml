@@ -1,0 +1,25 @@
+# Feature engineering configuration
+active_features:
+  tyre: true
+  rolling: true
+  weather: true
+  overtake: true
+  pit: true
+
+tyre:
+  compounds: [SOFT, MEDIUM, HARD, INTERMEDIATE, WET]
+  stint_features: [lap_delta, degradation_rate, optimal_lap]
+
+rolling:
+  windows: [3, 5, 10]
+  functions: [mean, std, min, max]
+
+weather:
+  features: [airtemp, tracktemp, humidity, pressure, rainfall, windspeed, winddirection]
+
+overtake:
+  window_laps: 3
+  drs_zones_only: true
+
+pit:
+  features: [pit_in_time, pit_duration, laps_since_last_pit, tyre_age]
