@@ -1,0 +1,32 @@
+circuit_name,drs_zones,drs_zone_lengths
+Bahrain,1,1000
+Jeddah,2,1200;800
+Albert Park,2,900;700
+Baku,2,1100;900
+Catalunya,1,1000
+Monaco,1,500
+Montreal,1,900
+Silverstone,2,900;800
+Spielberg,1,1100
+Hungaroring,1,800
+Spa,2,1100;900
+Zandvoort,1,700
+Monza,2,1000;900
+Marina Bay,2,900;800
+Suzuka,2,900;800
+Lusail,1,1000
+Yas Marina,2,1000;900
+Austin,2,1000;800
+Mexico City,1,900
+Interlagos,1,1000
+Las Vegas,2,1000;800
+Shanghai,2,1000;800
+Miami,2,900;800
+Imola,1,900
+Portimao,1,900
+Istanbul,1,1000
+Sochi,1,900
+Mugello,1,900
+Nurburgring,1,900
+Sakhir,1,1000
+Ricardo Tormo,1,800
