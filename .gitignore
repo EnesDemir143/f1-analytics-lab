@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment
+.env
+
+# Data (raw/interim are large, processed is committed)
+data/raw/
+data/interim/
+
+# W&B
+wandb/
+
+# GSD planning (local only, not published)
+.planning/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
